@@ -1,7 +1,14 @@
 #  INTRO 
 👋 Hey, I’m @Mikelin97, 
+- I gradudated from UC Berkeley with a Computer Science degree in 2020. 
+- Since graduation, I interned at a big data research institute in Shenzhen for 5 months and then proceed to found a start up (Match Box) with my friend Jay 
 
-- 📫 Reach me at: hlin_97@berkeley.edu
+-  Reach me at: 
+
+[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/Mikelin97/Mikelin97/master/gmail.png" />][email]
+[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/Mikelin97/Mikelin97/b0ea2abf06e55926c50bb421f0c21dabc3a4b9f5/linkedin.svg" />][linkedin]
+
+<br>
 
 # Match Box Co.
 For the past 9 months, me and my friend Jay founded **Match Box🎁**, a platform that matches products to users through tagging algorithm and provide CEM-alike data analysis service to businesses. 
@@ -39,3 +46,5 @@ For the past 9 months, me and my friend Jay founded **Match Box🎁**, a platfor
 
 - ### Physical Product 
 
+[linkedin]: https://linkedin.com/in/codeSTACKr
+[email]: hlin_97@berkeley.edu
