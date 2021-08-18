@@ -46,5 +46,5 @@ For the past 9 months, me and my friend Jay founded **Match Box🎁**, a platfor
 
 - ### Physical Product 
 
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[email]: hlin_97@berkeley.edu
+[linkedin]: https://www.linkedin.com/in/haohan-lin-618144133/
+[email]: mailto:hlin_97@berkeley.edu
