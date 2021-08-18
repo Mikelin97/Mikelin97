@@ -1,9 +1,19 @@
-#  INTRO 
+#  ABOUT ME 
+### Intro
 👋 Hey, I’m @Mikelin97, 
 - I gradudated from UC Berkeley with a Computer Science degree in 2020. 
-- Since graduation, I interned at a big data research institute in Shenzhen for 5 months and then proceed to found a start up (Match Box) with my friend Jay 
+- I interned at a big data research institute in Shenzhen for 5 months and then proceed to found a start up -> **Match Box** with my friend Jay 
+- I am passionated about data analysis and visualizations. 
 
--  Reach me at: 
+### Skills: 
+<img align="left" alt="Python" width="22px" src="https://raw.githubusercontent.com/Mikelin97/Mikelin97/master/python.png" />
+<img align="left" alt="Python" width="22px" src="https://raw.githubusercontent.com/Mikelin97/Mikelin97/master/mysql.png" />
+<img align="left" alt="Python" width="22px" src="https://raw.githubusercontent.com/Mikelin97/Mikelin97/master/github.png" />
+<img align="left" alt="Python" width="22px" src="https://raw.githubusercontent.com/Mikelin97/Mikelin97/master/command-window.png" />
+
+<br>
+
+### Reach me at: 
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/Mikelin97/Mikelin97/master/gmail.png" />][email]
 [<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/Mikelin97/Mikelin97/b0ea2abf06e55926c50bb421f0c21dabc3a4b9f5/linkedin.svg" />][linkedin]
@@ -15,13 +25,12 @@ For the past 9 months, me and my friend Jay founded **Match Box🎁**, a platfor
 
 ## Our Model 
 - Match Box provides users with FREE consumer products samples such as, 
-- 🍵 bags, 🤚 sanitizer, healthy snacks, anything that you can imagine fitting in a box! 
+- 🍵 teabags, 🤚 hand sanitizer, 🍡 snacks, anything that you can imagine fitting in a box!!!
 - After users received and tried out the products, they are prompted to answer a few 
 - preset-comments covering basics: packaging, taste, willingness to purchase, etc. 
 - Users are free to leave some comments as well~ 
 - After receiving user feedbacks, we summarize and visualize the data for the 
 - consumer brands who sponsored our products. 
-- you are welcome to check it out in our streamlit app with a visitor account Here ⬇️⬇️⬇️
 
 
 
@@ -45,6 +54,10 @@ For the past 9 months, me and my friend Jay founded **Match Box🎁**, a platfor
 - ### Wechat Mini-program 
 
 - ### Physical Product 
+
+
+
+
 
 [linkedin]: https://www.linkedin.com/in/haohan-lin-618144133/
 [email]: mailto:hlin_97@berkeley.edu
