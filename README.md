@@ -54,6 +54,8 @@ For the past 9 months, me and my friend Jay founded **Match Box🎁**, a platfor
 
 - ### Wechat Mini-program 
 
+<img alt="领盒子" scr=https://raw.githubusercontent.com/Mikelin97/Mikelin97/master/media/get_process.gif  width="120" height="240"/>
+
 
 
 
