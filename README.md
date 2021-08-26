@@ -20,7 +20,7 @@
 
 <br>
 
-# Match Box Co. <img width="22px" scr="https://raw.githubusercontent.com/Mikelin97/Mikelin97/master/matchbox_logo.jpg" />
+# Match Box Co. 
 
 For the past 9 months, me and my friend Jay founded **Match Box🎁**, a platform that matches products to users through tagging algorithm and provide CEM-alike data analysis service to businesses. 
 
@@ -36,7 +36,7 @@ For the past 9 months, me and my friend Jay founded **Match Box🎁**, a platfor
 
 
 ## Our Growth 
-- Within 5 months, we grew from 0 to 40k users, every month we experience a 100% growth! (afterall, who doesn't like FREE things hehe 😉 
+- Within 5 months, we grew to 40k users, every month we experience a 100% growth! (afterall, who doesn't like FREE things hehe 😉 
 - We worked with 15+ brands, each providing at least 500+ samples 
 
 
@@ -48,11 +48,13 @@ For the past 9 months, me and my friend Jay founded **Match Box🎁**, a platfor
 
 ## Our Products
 - ### CEM 
-     -   Web App: cem.xinhekeji.net
+     -   Web App: *[CEM](cem.xinhekeji.net)*
      -   Brand: visitor
      -   Password: matchbox123
 
 - ### Wechat Mini-program 
+
+
 
 
 - ### Physical Product 
