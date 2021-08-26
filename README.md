@@ -6,16 +6,16 @@
 - I am passionated about data analysis and visualizations. 
 
 ### Skills: 
-<img align="left" alt="Python" width="22px" src="https://raw.githubusercontent.com/Mikelin97/Mikelin97/master/python.png" />
-<img align="left" alt="Python" width="22px" src="https://raw.githubusercontent.com/Mikelin97/Mikelin97/master/mysql.png" />
-<img align="left" alt="Python" width="22px" src="https://raw.githubusercontent.com/Mikelin97/Mikelin97/master/github.png" />
-<img align="left" alt="Python" width="22px" src="https://raw.githubusercontent.com/Mikelin97/Mikelin97/master/command-window.png" />
+<img align="left" alt="Python" width="22px" src="https://raw.githubusercontent.com/Mikelin97/Mikelin97/master/media/python.png" />
+<img align="left" alt="MySQL" width="22px" src="https://raw.githubusercontent.com/Mikelin97/Mikelin97/master/media/mysql.png" />
+<img align="left" alt="github" width="22px" src="https://raw.githubusercontent.com/Mikelin97/Mikelin97/master/media/github.png" />
+<img align="left" alt="Linux" width="22px" src="https://raw.githubusercontent.com/Mikelin97/Mikelin97/master/media/command-window.png" />
 
 <br>
 
 ### Reach me at: 
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/Mikelin97/Mikelin97/master/gmail.png" />][email]
+[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/Mikelin97/Mikelin97/master/media/gmail.png" />][email]
 [<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/Mikelin97/Mikelin97/b0ea2abf06e55926c50bb421f0c21dabc3a4b9f5/linkedin.svg" />][linkedin]
 
 <br>
@@ -54,9 +54,7 @@ For the past 9 months, me and my friend Jay founded **Match Box🎁**, a platfor
 
 - ### Wechat Mini-program 
 
-<img alt="领盒子" scr=https://raw.githubusercontent.com/Mikelin97/Mikelin97/master/media/get_process.gif  width="120" height="240"/>
-
-
+![](https://raw.githubusercontent.com/Mikelin97/Mikelin97/master/media/get_process.gif)
 
 
 - ### Physical Product 
